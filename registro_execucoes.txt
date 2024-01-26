@@ -1,0 +1,2 @@
+2024-01-23 17:42:22: Comando enviado com sucesso! Status code: 200
+2024-01-23 17:42:30: Comando enviado com sucesso! Status code: 200
